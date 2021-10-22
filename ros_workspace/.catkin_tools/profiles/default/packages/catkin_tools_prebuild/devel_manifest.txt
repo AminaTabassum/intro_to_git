@@ -1,0 +1,13 @@
+/home/amina/intro_to_git/ros_workspace/build/catkin_tools_prebuild
+/home/amina/intro_to_git/ros_workspace/devel/.private/catkin_tools_prebuild/setup.zsh /home/amina/intro_to_git/ros_workspace/devel/./setup.zsh
+/home/amina/intro_to_git/ros_workspace/devel/.private/catkin_tools_prebuild/_setup_util.py /home/amina/intro_to_git/ros_workspace/devel/./_setup_util.py
+/home/amina/intro_to_git/ros_workspace/devel/.private/catkin_tools_prebuild/cmake.lock /home/amina/intro_to_git/ros_workspace/devel/./cmake.lock
+/home/amina/intro_to_git/ros_workspace/devel/.private/catkin_tools_prebuild/setup.sh /home/amina/intro_to_git/ros_workspace/devel/./setup.sh
+/home/amina/intro_to_git/ros_workspace/devel/.private/catkin_tools_prebuild/local_setup.sh /home/amina/intro_to_git/ros_workspace/devel/./local_setup.sh
+/home/amina/intro_to_git/ros_workspace/devel/.private/catkin_tools_prebuild/setup.bash /home/amina/intro_to_git/ros_workspace/devel/./setup.bash
+/home/amina/intro_to_git/ros_workspace/devel/.private/catkin_tools_prebuild/local_setup.bash /home/amina/intro_to_git/ros_workspace/devel/./local_setup.bash
+/home/amina/intro_to_git/ros_workspace/devel/.private/catkin_tools_prebuild/local_setup.zsh /home/amina/intro_to_git/ros_workspace/devel/./local_setup.zsh
+/home/amina/intro_to_git/ros_workspace/devel/.private/catkin_tools_prebuild/env.sh /home/amina/intro_to_git/ros_workspace/devel/./env.sh
+/home/amina/intro_to_git/ros_workspace/devel/.private/catkin_tools_prebuild/lib/pkgconfig/catkin_tools_prebuild.pc /home/amina/intro_to_git/ros_workspace/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+/home/amina/intro_to_git/ros_workspace/devel/.private/catkin_tools_prebuild/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake /home/amina/intro_to_git/ros_workspace/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+/home/amina/intro_to_git/ros_workspace/devel/.private/catkin_tools_prebuild/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake /home/amina/intro_to_git/ros_workspace/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake

@@ -1,0 +1,3 @@
+Symlinking /home/amina/intro_to_git/ros_workspace/devel/lib/pkgconfig/intro_to_ros.pc
+Symlinking /home/amina/intro_to_git/ros_workspace/devel/share/intro_to_ros/cmake/intro_to_rosConfig.cmake
+Symlinking /home/amina/intro_to_git/ros_workspace/devel/share/intro_to_ros/cmake/intro_to_rosConfig-version.cmake

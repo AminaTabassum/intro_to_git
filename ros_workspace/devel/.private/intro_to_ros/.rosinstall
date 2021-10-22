@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/amina/intro_to_git/ros_workspace/devel/.private/intro_to_ros/setup.sh

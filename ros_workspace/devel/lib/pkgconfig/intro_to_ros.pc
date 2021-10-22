@@ -1,0 +1,1 @@
+/home/amina/intro_to_git/ros_workspace/devel/.private/intro_to_ros/lib/pkgconfig/intro_to_ros.pc

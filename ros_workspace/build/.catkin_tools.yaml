@@ -1,0 +1,6 @@
+devel_space: /home/amina/intro_to_git/ros_workspace/devel
+install: false
+install_space: /home/amina/intro_to_git/ros_workspace/install
+profile: default
+source_space: /home/amina/intro_to_git/ros_workspace/src
+workspace: /home/amina/intro_to_git/ros_workspace

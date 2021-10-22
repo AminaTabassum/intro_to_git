@@ -1,0 +1,8 @@
+prefix=/home/amina/intro_to_git/ros_workspace/install
+
+Name: intro_to_ros
+Description: Description of intro_to_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

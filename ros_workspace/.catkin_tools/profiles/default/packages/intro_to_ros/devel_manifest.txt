@@ -1,0 +1,5 @@
+intro_to_ros
+/home/amina/intro_to_git/ros_workspace/devel/.private/intro_to_ros/cmake.lock /home/amina/intro_to_git/ros_workspace/devel/./cmake.lock
+/home/amina/intro_to_git/ros_workspace/devel/.private/intro_to_ros/lib/pkgconfig/intro_to_ros.pc /home/amina/intro_to_git/ros_workspace/devel/lib/pkgconfig/intro_to_ros.pc
+/home/amina/intro_to_git/ros_workspace/devel/.private/intro_to_ros/share/intro_to_ros/cmake/intro_to_rosConfig.cmake /home/amina/intro_to_git/ros_workspace/devel/share/intro_to_ros/cmake/intro_to_rosConfig.cmake
+/home/amina/intro_to_git/ros_workspace/devel/.private/intro_to_ros/share/intro_to_ros/cmake/intro_to_rosConfig-version.cmake /home/amina/intro_to_git/ros_workspace/devel/share/intro_to_ros/cmake/intro_to_rosConfig-version.cmake

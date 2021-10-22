@@ -1,0 +1,1 @@
+/home/amina/intro_to_git/ros_workspace/devel/.private/intro_to_ros/share/intro_to_ros/cmake/intro_to_rosConfig.cmake
